@@ -2,6 +2,9 @@
   height: 500px;
   object-fit: cover;
 }
+#opinions_carrusel img {
+  min-height: 200px;
+}
 .hover {
   position: relative;
 }
